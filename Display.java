@@ -1,4 +1,4 @@
-package calculatorPlayoff;
+
 
 import javax.swing.*;
 import java.awt.*;
@@ -18,5 +18,7 @@ public class Display {
 		
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
+		
+		//This worked
 	}
 }
